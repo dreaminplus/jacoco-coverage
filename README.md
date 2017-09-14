@@ -5,5 +5,6 @@ This demo app is updated copy of a github project https://github.com/pkainulaine
 # Hot to run demo
 1. Clone JaCoCo git repository into the new folder - git clone https://github.com/jakubschwan/jacoco.git
 2. Build JaCoCo SNAPSHOT to apply changes - mvn clean install
-3. Run tests from this project  with JaCoCo maven plugin - mvn clean test
-4. Check test output in console
+3. Clone project with demo - git clone  https://github.com/jakubschwan/jacoco-demo.git
+4. Run tests from this project  with JaCoCo maven plugin - mvn clean test
+5. Check test output in console
